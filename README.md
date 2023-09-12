@@ -1,5 +1,6 @@
 # git_test_uia
 
-Nå skriver jeg noe rare greier inni her
+macOS Ventura versjon 13.2
 
-En ny endring
+
+
